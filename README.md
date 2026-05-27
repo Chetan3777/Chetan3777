@@ -7,7 +7,7 @@
 [![Location](https://img.shields.io/badge/Pune,_India-0F0F12?style=flat-square&logo=googlemaps&logoColor=F26A1F&labelColor=0F0F12)](#)
 [![Experience](https://img.shields.io/badge/5%2B_Years-0F0F12?style=flat-square&labelColor=0F0F12&color=F26A1F)](#)
 [![Currently](https://img.shields.io/badge/Currently-Qatar_Airways-F26A1F?style=flat-square&labelColor=0F0F12)](#)
-[![Open To Work](https://img.shields.io/badge/Open_to-Senior_%2F_Lead_Roles-22C55E?style=flat-square&labelColor=0F0F12)](mailto:chetanjha78@gmail.com)
+[![Open To Work](https://img.shields.io/badge/Open_to-Senior_Software_Engineer_%C2%B7_Backend_Java-22C55E?style=flat-square&labelColor=0F0F12)](mailto:chetanjha78@gmail.com)
 
 </div>
 
@@ -36,7 +36,7 @@ role:       Senior Software Engineer  @  Qatar Airways
 shipping:   LLM agents · MCP servers · multi-agent orchestration  (Spring AI)
 maintains:  30+ production microservices · 99.9% uptime
 exploring:  Advanced RAG patterns · agent evaluation · vector DB tuning
-open_to:    Senior / Lead Backend & AI Engineering roles
+  open_to:    Senior Software Engineer roles  ·  Backend Java & Agentic AI
 ```
 
 ---
